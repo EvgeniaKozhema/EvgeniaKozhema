@@ -3,7 +3,7 @@
 #### A Machine Learning Developer
 
  📃 Bachelor of Radiophysics at [KubSU](https://www.kubsu.ru/ru)<br>
- 🌱 I'm exploring machine learning with CNNs, RNNs, and LSTMs <br>
+ 🌱 I'm exploring machine learning with RNNs, LSTMs and LLMs <br>
  📫 How to reach me: &nbsp; efelagereva@gmail.com <br>
  
 - I use daily: `pandas`, `numpy`, `pytorch`, `opencv`, `airflow`, `chatgpt`, `mlflow` <br>
