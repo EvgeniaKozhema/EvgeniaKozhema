@@ -6,7 +6,7 @@
  🌱 I'm exploring machine learning with RNNs, LSTMs and LLMs <br>
  📫 How to reach me: &nbsp; efelagereva@gmail.com <br>
  
-- I use daily: `pandas`, `numpy`, `pytorch`, `opencv`, `airflow`, `chatgpt`, `mlflow` <br>
+- I use daily: `pandas`, `numpy`, `seaborn`, `pytorch`, `airflow`, `tensorflow` <br>
 - In my free time I program microcontrollers <br>
 
 📄 View my resume [RU](Felagereva_CV.pdf) [](EN) for a detailed overview of my professional experiences and skills.
